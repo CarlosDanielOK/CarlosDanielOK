@@ -1,6 +1,6 @@
-# ¡Hola, soy Daniel!
+# ¡Hola, soy Carlos!
 
-Soy **Full Stack Web Developer** especializado en **Frontend**, apasionado por crear aplicaciones web funcionales, intuitivas, modernas y escalables. Me encanta poder hacer una idea realidad y aprender nuevas tecnologías para seguir mejorando mis habilidades.
+Soy **Full Stack Web Developer** especializado en **Front-end Development**, apasionado por crear aplicaciones web funcionales, intuitivas, modernas y escalables. Me encanta poder hacer una idea realidad y aprender nuevas tecnologías para seguir mejorando mis habilidades.
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes de programación:** JavaScript, TypeScript, C++.
