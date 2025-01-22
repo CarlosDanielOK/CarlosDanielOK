@@ -73,5 +73,6 @@ Ecommerce de tecnología con funcionalidad completa, incluyendo:
 ## 📫 Contáctame
 - **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-lazo/
 - **Email:** carlosdaniellazo06@gmail.com
+- **Portfolio** https://carloslazo.vercel.app/
 
 ¡Estoy emocionado por conectar contigo y colaborar en proyectos innovadores!
