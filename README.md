@@ -42,6 +42,9 @@ Aplicación para buscar y compartir GIFs ilimitados con integración a redes soc
 - Botones de compartición directa a WhatsApp, Facebook y Twitter.
 - Tecnologías: React.js, HTML, CSS, JavaScript.
 
+**Deploy:**
+[https://gifbook.netlify.app/)  
+
 ### [FACEBOOK](https://github.com/CarlosDanielOK/CARLOS-facebook)
 Clon de la página de inicio de Facebook. Incluye:
 - Diseño web responsivo que se adapta a diversos dispositivos y tamaños de pantalla.
@@ -49,12 +52,18 @@ Clon de la página de inicio de Facebook. Incluye:
 - Diseño inspirado en la versión original de Facebook (web).
 - Tecnologías: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS.
 
+**Deploy:**
+[https://carlosfacebook.vercel.app/)  
+
 ### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
 Ecommerce de tecnología con funcionalidad completa, incluyendo:
 - Carrito de compras personalizado por usuario.
 - Autenticación, registro e inicio de sesión de usuarios.
 - Búsqueda optimizada de productos.
 - Tecnologías: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Node.js, Express.js, Nest.js, PostgreSQL.
+
+**Deploy (Front):**
+[https://vercel-deploy-front-pm4.vercel.app/)  
 
 ## 🌟 Sobre mí
 - Me apasiona aprender y mantenerme actualizado con las últimas tendencias en desarrollo web.
