@@ -10,12 +10,23 @@ Soy **Full Stack Web Developer** especializado en **Front-end Development**, apa
 - **Herramientas:** Git, GitHub, Figma, Slack, Vercel, Netlify.
 
 ## 💻 Proyectos Destacados
-### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
-Ecommerce de tecnología con funcionalidad completa, incluyendo:
-- Carrito de compras personalizado por usuario.
-- Autenticación, registro e inicio de sesión de usuarios.
-- Búsqueda optimizada de productos.
-- Tecnologías: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Node.js, Express.js, Nest.js, PostgreSQL.
+### [SNAPPY FRIENDS](https://github.com/SnappyFriends/snappy_front)
+Red social con funcionalidad completa. Principales funcionalidades y responsabilidades:
+- Concebir la idea original de la aplicación, y liderar el equipo de desarrollo.
+- Diseñar la interfaz de usuario (UI) con un enfoque en la simplicidad y la experiencia intuitiva (UX).
+- Desarrollar formularios de Log in, Sign up y Log out, integrando autenticación con Google.
+- Implementar y desarrollar funcionalidades como perfiles de usuario, publicaciones, seguidores/seguidos, fotos de perfil, configuración, edición de perfil, historias, panel de administración (dashboard), reportes de usuarios, suscripciones y gráficos interactivos en el dashboard, rutas protegidas, etcétera.
+- Consumir APIs del backend para integrar datos y funcionalidades en tiempo real.
+- Identificar, corregir y ayudar a resolver errores o bugs encontrados por el equipo de trabajo.
+- Realizar pruebas de funcionalidad y ajustes basados en retroalimentación para mejorar la experiencia del usuario.
+
+#Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, OAuth 2.0, Socket.io Client, React Hook Form, React Hot Toast, Chart.js, Font Awesome, JS Cookie.
+#Back-end: Node.js, Express.js, NestJS, TypeScript, JWT (JSON Web Tokens), Socket.io, Cloudinary, Nodemailer, Stripe, Swagger, Geolib.
+#Base de datos: PostgreSQL, TypeORM.
+#Deploy (Front): https://snappyfriends.vercel.app
+#Documentación (Back): https://snappy-back-si83.onrender.com/api
+#GitHub (Front): https://github.com/SnappyFriends/snappy_front
+#GitHub (Back): https://github.com/SnappyFriends/snappy_back
 
 ### [GIFBOOK](https://github.com/CarlosDanielOK/Dan-GIFBOOK)
 Aplicación para buscar y compartir GIFs ilimitados con integración a redes sociales:
@@ -23,6 +34,13 @@ Aplicación para buscar y compartir GIFs ilimitados con integración a redes soc
 - Uso de la API de Tenor GIF.
 - Botones de compartición directa a WhatsApp, Facebook y Twitter.
 - Tecnologías: React.js, HTML, CSS, JavaScript.
+
+### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
+Ecommerce de tecnología con funcionalidad completa, incluyendo:
+- Carrito de compras personalizado por usuario.
+- Autenticación, registro e inicio de sesión de usuarios.
+- Búsqueda optimizada de productos.
+- Tecnologías: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Node.js, Express.js, Nest.js, PostgreSQL.
 
 ## 🌟 Sobre mí
 - Me apasiona aprender y mantenerme actualizado con las últimas tendencias en desarrollo web.
