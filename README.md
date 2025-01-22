@@ -20,19 +20,19 @@ Red social con funcionalidad completa. Principales funcionalidades y responsabil
 - Identificar, corregir y ayudar a resolver errores o bugs encontrados por el equipo de trabajo.
 - Realizar pruebas de funcionalidad y ajustes basados en retroalimentación para mejorar la experiencia del usuario.
 
-**Front-end:**  
+**Front-end:**
 HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, OAuth 2.0, Socket.io Client, React Hook Form, React Hot Toast, Chart.js, Font Awesome, JS Cookie.  
-**Back-end:**  
+**Back-end:**
 Node.js, Express.js, NestJS, TypeScript, JWT (JSON Web Tokens), Socket.io, Cloudinary, Nodemailer, Stripe, Swagger, Geolib.  
-**Base de datos:**  
+**Base de datos:**
 PostgreSQL, TypeORM.  
-**Deploy (Front):**  
+**Deploy (Front):**
 [https://snappyfriends.vercel.app](https://snappyfriends.vercel.app)  
-**Documentación (Back):**  
+**Documentación (Back):**
 [https://snappy-back-si83.onrender.com/api](https://snappy-back-si83.onrender.com/api)  
-**GitHub (Front):**  
+**GitHub (Front):**
 [https://github.com/SnappyFriends/snappy_front](https://github.com/SnappyFriends/snappy_front)  
-**GitHub (Back):**  
+**GitHub (Back):**
 [https://github.com/SnappyFriends/snappy_back](https://github.com/SnappyFriends/snappy_back)  
 
 ### [GIFBOOK](https://github.com/CarlosDanielOK/Dan-GIFBOOK)
