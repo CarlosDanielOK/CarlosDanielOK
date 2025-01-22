@@ -20,20 +20,28 @@ Red social con funcionalidad completa. Principales funcionalidades y responsabil
 - Identificar, corregir y ayudar a resolver errores o bugs encontrados por el equipo de trabajo.
 - Realizar pruebas de funcionalidad y ajustes basados en retroalimentación para mejorar la experiencia del usuario.
 
-####Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, OAuth 2.0, Socket.io Client, React Hook Form, React Hot Toast, Chart.js, Font Awesome, JS Cookie.
-#Back-end: Node.js, Express.js, NestJS, TypeScript, JWT (JSON Web Tokens), Socket.io, Cloudinary, Nodemailer, Stripe, Swagger, Geolib.
-#Base de datos: PostgreSQL, TypeORM.
-#Deploy (Front): https://snappyfriends.vercel.app
-#Documentación (Back): https://snappy-back-si83.onrender.com/api
-#GitHub (Front): https://github.com/SnappyFriends/snappy_front
-#GitHub (Back): https://github.com/SnappyFriends/snappy_back
+Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, OAuth 2.0, Socket.io Client, React Hook Form, React Hot Toast, Chart.js, Font Awesome, JS Cookie.
+Back-end: Node.js, Express.js, NestJS, TypeScript, JWT (JSON Web Tokens), Socket.io, Cloudinary, Nodemailer, Stripe, Swagger, Geolib.
+Base de datos: PostgreSQL, TypeORM.
+Deploy (Front): https://snappyfriends.vercel.app
+Documentación (Back): https://snappy-back-si83.onrender.com/api
+GitHub (Front): https://github.com/SnappyFriends/snappy_front
+GitHub (Back): https://github.com/SnappyFriends/snappy_back
 
+https://github.com/CarlosDanielOK/CARLOS-facebook
 ### [GIFBOOK](https://github.com/CarlosDanielOK/Dan-GIFBOOK)
 Aplicación para buscar y compartir GIFs ilimitados con integración a redes sociales:
 - Barra de búsqueda funcional y animada.
 - Uso de la API de Tenor GIF.
 - Botones de compartición directa a WhatsApp, Facebook y Twitter.
 - Tecnologías: React.js, HTML, CSS, JavaScript.
+
+### [FACEBOOK](https://github.com/CarlosDanielOK/CARLOS-facebook)
+Clon de la página de inicio de Facebook. Incluye:
+- Diseño web responsivo que se adapta a diversos dispositivos y tamaños de pantalla.
+- Notificaciones personalizadas.
+- Diseño inspirado en la versión original de Facebook (web).
+- Tecnologías: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS.
 
 ### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
 Ecommerce de tecnología con funcionalidad completa, incluyendo:
