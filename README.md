@@ -71,7 +71,7 @@ Ecommerce de tecnología con funcionalidad completa, incluyendo:
 - Estoy buscando un puesto como **Frontend Developer** en modalidad remota o presencial.
 
 ## 📫 Contáctame
-- **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-lazo/
+- **LinkedIn:** https://www.linkedin.com/in/carlosdaniellazo/
 - **Email:** carlosdaniellazo06@gmail.com
 - **Portfolio:** https://carloslazo.vercel.app/
 
