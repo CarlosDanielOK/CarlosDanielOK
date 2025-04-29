@@ -1,78 +1,49 @@
-# ¡Hola, soy Carlos!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Soy **Full Stack Web Developer** especializado en **Front-end Development**, apasionado por crear aplicaciones web funcionales, intuitivas, modernas y escalables. Me encanta poder hacer una idea realidad y aprender nuevas tecnologías para seguir mejorando mis habilidades.
+###
 
-## 🛠️ Tecnologías y Herramientas
-- **Lenguajes de programación:** JavaScript, TypeScript, C++.
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap.
-- **Backend:** Node.js, Express.
-- **Bases de datos:** PostgreSQL, MongoDB.
-- **Herramientas:** Git, GitHub, Figma, Slack, Vercel, Netlify.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 💻 Proyectos Destacados
-### [SNAPPY FRIENDS](https://github.com/SnappyFriends/snappy_front)
-Red social con funcionalidad completa. Principales funcionalidades y responsabilidades:
-- Concebir la idea original de la aplicación, y liderar el equipo de desarrollo.
-- Diseñar la interfaz de usuario (UI) con un enfoque en la simplicidad y la experiencia intuitiva (UX).
-- Desarrollar formularios de Log in, Sign up y Log out, integrando autenticación con Google.
-- Implementar y desarrollar funcionalidades como perfiles de usuario, publicaciones, seguidores/seguidos, fotos de perfil, configuración, edición de perfil, historias, panel de administración (dashboard), reportes de usuarios, suscripciones y gráficos interactivos en el dashboard, rutas protegidas, etcétera.
-- Consumir APIs del backend para integrar datos y funcionalidades en tiempo real.
-- Identificar, corregir y ayudar a resolver errores o bugs encontrados por el equipo de trabajo.
-- Realizar pruebas de funcionalidad y ajustes basados en retroalimentación para mejorar la experiencia del usuario.
+###
 
-**Front-end:**
-HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, OAuth 2.0, Socket.io Client, React Hook Form, React Hot Toast, Chart.js, Font Awesome, JS Cookie.  
-**Back-end:**
-Node.js, Express.js, NestJS, TypeScript, JWT (JSON Web Tokens), Socket.io, Cloudinary, Nodemailer, Stripe, Swagger, Geolib.  
-**Base de datos:**
-PostgreSQL, TypeORM.  
-**Deploy (Front):**
-[https://snappyfriends.vercel.app](https://snappyfriends.vercel.app)  
-**Documentación (Back):**
-[https://snappy-back-si83.onrender.com/api](https://snappy-back-si83.onrender.com/api)  
-**GitHub (Front):**
-[https://github.com/SnappyFriends/snappy_front](https://github.com/SnappyFriends/snappy_front)  
-**GitHub (Back):**
-[https://github.com/SnappyFriends/snappy_back](https://github.com/SnappyFriends/snappy_back)  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### [GIFBOOK](https://github.com/CarlosDanielOK/Dan-GIFBOOK)
-Aplicación para buscar y compartir GIFs ilimitados con integración a redes sociales:
-- Barra de búsqueda funcional y animada.
-- Uso de la API de Tenor GIF.
-- Botones de compartición directa a WhatsApp, Facebook y Twitter.
-- Tecnologías: React.js, HTML, CSS, JavaScript.
+###
 
-**Deploy:**
-[https://gifbook.netlify.app/)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### [FACEBOOK](https://github.com/CarlosDanielOK/CARLOS-facebook)
-Clon de la página de inicio de Facebook. Incluye:
-- Diseño web responsivo que se adapta a diversos dispositivos y tamaños de pantalla.
-- Notificaciones personalizadas.
-- Diseño inspirado en la versión original de Facebook (web).
-- Tecnologías: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS.
+###
 
-**Deploy:**
-[https://carlosfacebook.vercel.app/)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
-Ecommerce de tecnología con funcionalidad completa, incluyendo:
-- Carrito de compras personalizado por usuario.
-- Autenticación, registro e inicio de sesión de usuarios.
-- Búsqueda optimizada de productos.
-- Tecnologías: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Node.js, Express.js, Nest.js, PostgreSQL.
+###
 
-**Deploy (Front):**
-[https://vercel-deploy-front-pm4.vercel.app/)  
+<br clear="both">
 
-## 🌟 Sobre mí
-- Me apasiona aprender y mantenerme actualizado con las últimas tendencias en desarrollo web.
-- Soy adaptable y disfruto trabajando tanto en equipo como de manera individual.
-- Estoy buscando un puesto como **Frontend Developer** en modalidad remota o presencial.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 📫 Contáctame
-- **LinkedIn:** https://www.linkedin.com/in/carlosdaniellazo/
-- **Email:** carlosdaniellazo06@gmail.com
-- **Portfolio:** https://carloslazo.vercel.app/
-
-¡Estoy emocionado por conectar contigo y colaborar en proyectos innovadores!
+###
