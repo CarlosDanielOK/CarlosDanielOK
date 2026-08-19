@@ -1,4 +1,4 @@
-# Hola, soy Carlos Lazo.👋
+# Hola, soy Carlos Daniel.👋
 Profesional Full Stack Developer especializado en Front-end Development, con estudios en Ingeniería en Sistemas de Información. Tengo experiencia desarrollando aplicaciones web utilizando tecnologías como React.js, Next.js, Angular, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, TypeScript, Context API, Python, Django, PostgreSQL, Figma, Photoshop, y adicionalmente C++.<br>Me encanta poder hacer una idea realidad y aprender nuevas tecnologías para seguir mejorando mis habilidades. Actualmente me encuentro estudiando React Native y Java.<br>Estoy abierto a colaborar en proyectos desafiantes y trabajar tanto de forma remota como presencial, adaptándome a las necesidades del equipo y aportando soluciones creativas e innovadoras.
 
 
